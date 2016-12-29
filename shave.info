@@ -1,0 +1,6 @@
+name = shave
+description = Drupal integration for javascript plugin "Shave".
+package = Shave
+core = 7.x
+dependencies[] = libraries (>=2.x)
+project = "shave"
